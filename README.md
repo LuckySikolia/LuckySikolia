@@ -3,7 +3,7 @@ Hello there ![](https://user-images.githubusercontent.com/18350557/176309783-078
 
 ![Lucky Sikolia](https://user-images.githubusercontent.com/103184937/216783512-79034199-0b04-41ac-b00f-e7da4999efaa.png)
 
-Android developer and UX/UI designer
+About me
 ------------------------------------
 
 Hey there! I'm a UX/UI designer and Android developer with a special mix of design and tech skills. I'm all about creating apps that not only look great, but also have a fantastic user experience. I use my skills in Kotlin programming to bring my designs to life and make them a reality. I'm always eager to learn and grow, and I believe that with my creativity, technical abilities, and drive to make a positive impact, I can make some truly amazing apps that people will love. Let's create something great together!
@@ -12,6 +12,7 @@ Hey there! I'm a UX/UI designer and Android developer with a special mix of desi
 * 🧠  I'm learning Kotlin
 * ⚡  Anime is life
 
+***
 ### Skills
 
 
@@ -25,11 +26,12 @@ Hey there! I'm a UX/UI designer and Android developer with a special mix of desi
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
 
-
+***
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/LuckySikolia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/@Sikolia_L" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+***
 ### Badges
 
 <b>My GitHub Stats</b>
