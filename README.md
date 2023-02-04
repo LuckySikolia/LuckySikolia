@@ -1,6 +1,8 @@
 Hello there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =====================================================================================================================================
 
+![Lucky Sikolia](https://user-images.githubusercontent.com/103184937/216783512-79034199-0b04-41ac-b00f-e7da4999efaa.png)
+
 Android developer and UX/UI designer
 ------------------------------------
 
