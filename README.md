@@ -8,7 +8,7 @@ About me
 
 Hey there! I'm a UX/UI designer and Android developer with a special mix of design and tech skills. I'm all about creating apps that not only look great, but also have a fantastic user experience. I use my skills in Kotlin programming to bring my designs to life and make them a reality. I'm always eager to learn and grow, and I believe that with my creativity, technical abilities, and drive to make a positive impact, I can make some truly amazing apps that people will love. Let's create something great together!
 
-* ✉️  You can contact me at [luckysikolia7@gmail.com](mailto:sikolialucky@gmail.com)
+* ✉️  You can contact me at [sikolialucky@gmail.com](mailto:sikolialucky@gmail.com)
 * 🧠  I'm learning Kotlin
 * ⚡  Anime is life
 
