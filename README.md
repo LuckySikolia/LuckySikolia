@@ -11,6 +11,7 @@ Hey there! I'm a UX/UI designer and Android developer with a special mix of desi
 * ✉️  You can contact me at [sikolialucky@gmail.com](mailto:sikolialucky@gmail.com)
 * 🧠  I'm learning Kotlin
 * ⚡  Anime is life
+* sometimes i write [dev.to](https://dev.to/luckysikolia) / [Hashnode.com](https://hashnode.com/@Sikolia)
 
 ***
 ### :hammer_and_wrench: Language and Tools
