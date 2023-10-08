@@ -58,7 +58,7 @@ Hey there! I'm a UX/UI designer and Android developer with a special mix of desi
 </div>
 
 ***
-### :file_cabinet : Holpin Inventory
+### 🗄️: Holpin Inventory
 
 [![An image of @its_lucky's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/its_lucky)](https://holopin.io/@its_lucky)
 
