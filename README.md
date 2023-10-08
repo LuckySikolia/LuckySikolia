@@ -57,5 +57,6 @@ Hey there! I'm a UX/UI designer and Android developer with a special mix of desi
  <img style="max-width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=LuckySikolia&stroke=3382ed&background=0f172a&ring=a855f7&fire=a855f7&currStreakNum=3382ed&currStreakLabel=a855f7&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=false" />
 </div>
 
+[![An image of @its_lucky's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/its_lucky)](https://holopin.io/@its_lucky)
 
 
