@@ -2,7 +2,7 @@ Hello there ![](https://user-images.githubusercontent.com/18350557/176309783-078
 =====================================================================================================================================
 
 ![Lucky Sikolia](https://user-images.githubusercontent.com/103184937/216783512-79034199-0b04-41ac-b00f-e7da4999efaa.png)
-![Lucky Sikolia]()
+![Lucky Sikolia](https://github.com/LuckySikolia/LuckySikolia/assets/103184937/35a78dd6-ea5a-49d5-ae28-0ffbe0ebb998)
 
 About me
 ------------------------------------
