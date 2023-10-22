@@ -15,6 +15,15 @@ I am a passionate UX/UI designer with a knack for crafting intuitive and aesthet
 * Sometimes I write [dev.to](https://dev.to/luckysikolia) / [Hashnode.com](https://hashnode.com/@Sikolia)
 
 ***
+### ✍️: Key Skils
+
+* Wireframing and prototyping: Bringing ideas to life through sketches and interactive prototypes
+* User interface (UI) design: Crafting visually appealing and user-friendly interfaces
+* User experience (UX) design: Ensuring a seamless and enjoyable user journey
+* HTML and CSS Mastering the languages that bring designs to life
+* User research and analysis: Unraveling the mysteries of user behavior
+
+***
 ### :hammer_and_wrench: Language and Tools
 
 
