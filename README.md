@@ -9,14 +9,14 @@ About me
 Hey there!
 I am a UX/UI designer and an upcoming developer
 
-* ✉️  You can contact me at [luckysikolia7@gmail.com](mailto:sikolialucky@gmail.com)
+* 📫 How to reach me [luckysikolia7@gmail.com](mailto:sikolialucky@gmail.com)
 * 👨‍💻 My UX projects are available at [https://lucky-sikolia-portfolio.vercel.app/](https://lucky-sikolia-portfolio.vercel.app/)
-*  🌱 I’m currently learning **Javascript**
+* 🌱 I’m currently learning **Javascript**
 * ⚡  Kaizen
 * Sometimes I write [dev.to](https://dev.to/luckysikolia) / [Hashnode.com](https://hashnode.com/@Sikolia)
 
 ***
-### ✍️ Key Skils
+### ✍️ Key Skills
 
 * Wireframing and prototyping: Bringing ideas to life through sketches and interactive prototypes
 * User interface (UI) design: Crafting visually appealing and user-friendly interfaces
@@ -40,7 +40,15 @@ I am a UX/UI designer and an upcoming developer
 </p>
 
 ***
-### 🛰️ Lets Connect
+### 🛰️ Connect with me:
+
+
+<p align="left">
+<a href="https://dev.to/https://dev.to/luckysikolia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/luckysikolia" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/lucky-sikolia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucky-sikolia" height="30" width="40" /></a>
+<a href="https://hashnode.com/https://hashnode.com/@sikolia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@sikolia" height="30" width="40" /></a>
+<a href="https://medium.com/@sikolialucky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sikolialucky" height="30" width="40" /></a>
+</p>
 
 <p align="center"> <a href="https://www.dev.to/luckysikolia" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/LuckySikolia" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://luckysikolia.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/lucky-sikolia" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@sikolialucky" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Sikolia_L" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
