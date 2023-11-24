@@ -7,10 +7,11 @@ About me
 ------------------------------------
 
 Hey there!
-I am a passionate UX/UI designer with a knack for crafting intuitive and aesthetically pleasing digital experiences. My expertise lies in understanding user behaviour and translating it into designs that are both functional and engaging. I am also proficient in front-end development, allowing me to seamlessly transform my designs into reality. I'm particularly proud of my ability to bridge the gap between design and development. My knowledge of front-end technologies, such as HTML and CSS, enables me to effectively communicate my designs to developers and ensure that the final product aligns with my vision.
+I am a UX/UI designer and an upcoming developer
 
 * ✉️  You can contact me at [luckysikolia7@gmail.com](mailto:sikolialucky@gmail.com)
-* 🧠  I'm learning front-end development
+* 👨‍💻 My UX projects are available at [https://lucky-sikolia-portfolio.vercel.app/](https://lucky-sikolia-portfolio.vercel.app/)
+*  🌱 I’m currently learning **Javascript**
 * ⚡  Kaizen
 * Sometimes I write [dev.to](https://dev.to/luckysikolia) / [Hashnode.com](https://hashnode.com/@Sikolia)
 
