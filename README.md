@@ -10,6 +10,7 @@ Hey there!
 I am a UX/UI designer and an upcoming developer
 
 * 📫 How to reach me [luckysikolia7@gmail.com](mailto:sikolialucky@gmail.com)
+* 🔗 linked in [@Lucky Sikolia]([www.linkedin.com/in/lucky-sikolia](https://www.linkedin.com/in/lucky-sikolia/)
 * 👨‍💻 My UX projects are available at [https://lucky-sikolia-portfolio.vercel.app/](https://lucky-sikolia-portfolio.vercel.app/)
 * 🌱 I’m currently learning **Javascript**
 * ⚡  Kaizen
