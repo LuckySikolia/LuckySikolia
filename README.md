@@ -13,17 +13,7 @@ I am a UX/UI designer and an upcoming developer
 * 🔗 LinkedIn profile [www.linkedin.com/in/lucky-sikolia](https://www.linkedin.com/in/lucky-sikolia/)
 * 👨‍💻 My UX projects are available at [https://lucky-sikolia-portfolio.vercel.app/](https://lucky-sikolia-portfolio.vercel.app/)
 * 🌱 I’m currently learning **Javascript**
-* ⚡  Kaizen
 * Sometimes I write [dev.to](https://dev.to/luckysikolia) / [Hashnode.com](https://hashnode.com/@Sikolia)
-
-***
-### ✍️ Key Skills
-
-* Wireframing and prototyping: Bringing ideas to life through sketches and interactive prototypes
-* User interface (UI) design: Crafting visually appealing and user-friendly interfaces
-* User experience (UX) design: Ensuring a seamless and enjoyable user journey
-* HTML and CSS Mastering the languages that bring designs to life
-* User research and analysis: Unraveling the mysteries of user behaviour
 
 ***
 ### :hammer_and_wrench: Language and Tools
