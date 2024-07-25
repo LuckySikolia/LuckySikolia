@@ -12,7 +12,7 @@ I am a UX/UI designer and an upcoming developer
 * 📫 How to reach me [luckysikolia7@gmail.com](mailto:sikolialucky@gmail.com)
 * 🔗 LinkedIn profile [www.linkedin.com/in/lucky-sikolia](https://www.linkedin.com/in/lucky-sikolia/)
 * 👨‍💻 My UX projects are available at [https://lucky-sikolia-portfolio.vercel.app/](https://lucky-sikolia-portfolio.vercel.app/)
-* 🌱 I’m currently learning **Javascript**
+* 🌱 I’m currently learning C# for game development
 * Sometimes I write [dev.to](https://dev.to/luckysikolia) / [Hashnode.com](https://hashnode.com/@Sikolia)
 
 ***
