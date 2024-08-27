@@ -13,6 +13,7 @@ I am a UX/UI designer and an upcoming developer
 * 🔗 LinkedIn profile [www.linkedin.com/in/lucky-sikolia](https://www.linkedin.com/in/lucky-sikolia/)
 * 👨‍💻 My UX projects are available at [https://lucky-sikolia-portfolio.vercel.app/](https://lucky-sikolia-portfolio.vercel.app/)
 * Sometimes I write [dev.to](https://dev.to/luckysikolia) / [Hashnode.com](https://hashnode.com/@Sikolia)
+*🌱 I’m currently learning **Game Development**
 
 ***
 ### :hammer_and_wrench: Language and Tools
@@ -48,6 +49,7 @@ I am a UX/UI designer and an upcoming developer
 ### :fire: My Stats
 
 <!-- <b>My GitHub Stats</b> -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <!-- <a href="http://www.github.com/LuckySikolia" align="left"><img src="https://github-readme-stats.vercel.app/api?username=LuckySikolia&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=3382ed&icon_color=10b981&bg_color=0f172a&hide_border=false&show_icons=true" alt="LuckySikolia's GitHub stats" /></a>
 
