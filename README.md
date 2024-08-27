@@ -50,6 +50,10 @@ I am a UX/UI designer and ameteur game developer
 ### :fire: My Stats
 
 <!-- <b>My GitHub Stats</b> -->
+<!-- the streaks -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LuckySikolia&theme=omni&hide_border=true)](https://git.io/streak-stats)
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LuckySikolia&show_icons=true&theme=synthwave" />
 </a>
