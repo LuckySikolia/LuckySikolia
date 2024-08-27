@@ -54,6 +54,7 @@ I am a UX/UI designer and ameteur game developer
 <a href="https://git.io/streak-stats"><img align="Left" src="https://github-readme-streak-stats.herokuapp.com?user=LuckySikolia&theme=omni&hide_border=true" alt="GitHub Streak" /></a>
 <a><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=luckysikolia&hide_border=true&show_icons=true&theme=omni&locale=en" alt="luckysikolia" /></p></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LuckySikolia&show_icons=true&theme=synthwave" />
@@ -69,7 +70,7 @@ I am a UX/UI designer and ameteur game developer
 <a href="https://github.com/LuckySikolia" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckySikolia&langs_count=10&title_color=a855f7&text_color=3382ed&icon_color=10b981&bg_color=0f172a&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
 <!-- <a href="http://www.github.com/LuckySikolia"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LuckySikolia&stroke=3382ed&background=0f172a&ring=a855f7&fire=a855f7&currStreakNum=3382ed&currStreakLabel=a855f7&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=false" /></a>
- -->
+ 
 
 <div class='container'>
 <img src="https://github-readme-stats.vercel.app/api?username=LuckySikolia&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=3382ed&icon_color=10b981&bg_color=0f172a&hide_border=false&show_icons=true" style="height: auto; width: 50%;"alt="LuckySikolia's GitHub stats" />
@@ -82,7 +83,7 @@ I am a UX/UI designer and ameteur game developer
 <div align="center" dir="auto"  />
  <img style="max-width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=LuckySikolia&stroke=3382ed&background=0f172a&ring=a855f7&fire=a855f7&currStreakNum=3382ed&currStreakLabel=a855f7&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=false" />
 </div>
-
+-->
 
 
 
