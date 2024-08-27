@@ -49,7 +49,13 @@ I am a UX/UI designer and an upcoming developer
 ### :fire: My Stats
 
 <!-- <b>My GitHub Stats</b> -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuckySikolia&show_icons=true&theme=omni)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LuckySikolia&show_icons=true&theme=synthwave" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?usernameLuckySikolia&show_icons=true&theme=omni&layout=compact&langs_count=8&card_width=320" />
+</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuckySikolia&show_icons=false&theme=omni)
 
 <!-- <a href="http://www.github.com/LuckySikolia" align="left"><img src="https://github-readme-stats.vercel.app/api?username=LuckySikolia&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=3382ed&icon_color=10b981&bg_color=0f172a&hide_border=false&show_icons=true" alt="LuckySikolia's GitHub stats" /></a>
 
