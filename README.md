@@ -52,7 +52,7 @@ I am a UX/UI designer and ameteur game developer
 <!-- <b>My GitHub Stats</b> -->
 <!-- the streaks -->
 <a href="https://git.io/streak-stats"><img align="Left" src="https://github-readme-streak-stats.herokuapp.com?user=LuckySikolia&theme=omni&hide_border=true" alt="GitHub Streak" /></a>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=luckysikolia&theme=dark" alt="luckysikolia" /></p>
+<a><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=luckysikolia&hide_border=true&show_icons=true&theme=synthwave&locale=en" alt="luckysikolia" /></p></a>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
