@@ -7,10 +7,11 @@ About me
 ------------------------------------
 
 Hey there!
-I am a UX/UI designer and an upcoming developer
+I am a UX/UI designer and ameteur game developer
 
 
-* 🔗 LinkedIn profile [www.linkedin.com/in/lucky-sikolia](https://www.linkedin.com/in/lucky-sikolia/)
+*🌱 I’m currently learning **Game Development**
+*  🔗 LinkedIn profile [www.linkedin.com/in/lucky-sikolia](https://www.linkedin.com/in/lucky-sikolia/)
 * 👨‍💻 My UX projects are available at [https://lucky-sikolia-portfolio.vercel.app/](https://lucky-sikolia-portfolio.vercel.app/)
 * Sometimes I write [dev.to](https://dev.to/luckysikolia) / [Hashnode.com](https://hashnode.com/@Sikolia)
 *🌱 I’m currently learning **Game Development**
@@ -53,8 +54,9 @@ I am a UX/UI designer and an upcoming developer
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LuckySikolia&show_icons=true&theme=synthwave" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuckySikolia&show_icons=true&theme=omni&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuckySikolia&show_icons=true&theme=synthwave&layout=compact&langs_count=8&card_width=320" />
 </a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuckySikolia&show_icons=true&theme=omni)
 
 <!-- <a href="http://www.github.com/LuckySikolia" align="left"><img src="https://github-readme-stats.vercel.app/api?username=LuckySikolia&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=3382ed&icon_color=10b981&bg_color=0f172a&hide_border=false&show_icons=true" alt="LuckySikolia's GitHub stats" /></a>
