@@ -6,11 +6,6 @@ Hello there ![](https://user-images.githubusercontent.com/18350557/176309783-078
 About me
 ------------------------------------
 
-Hey there!
-I am a UX/UI designer and ameteur game developer
-
-
-
 * 🔗 LinkedIn profile [www.linkedin.com/in/lucky-sikolia](https://www.linkedin.com/in/lucky-sikolia/)
 * 👨‍💻 Game Portfolio [https://luckysikolia.my.canva.site/game-dev-portfolio](https://luckysikolia.my.canva.site/game-dev-portfolio)
 * Sometimes I write [dev.to](https://dev.to/luckysikolia) / [Hashnode.com](https://hashnode.com/@Sikolia)
