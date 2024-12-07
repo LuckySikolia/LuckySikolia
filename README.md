@@ -12,9 +12,9 @@ I am a UX/UI designer and ameteur game developer
 
 
 * 🔗 LinkedIn profile [www.linkedin.com/in/lucky-sikolia](https://www.linkedin.com/in/lucky-sikolia/)
-* 👨‍💻 My UX projects are available at [https://lucky-sikolia-portfolio.vercel.app/](https://lucky-sikolia-portfolio.vercel.app/)
+* 👨‍💻 Game Portfolio [https://luckysikolia.my.canva.site/game-dev-portfolio](https://luckysikolia.my.canva.site/game-dev-portfolio)
 * Sometimes I write [dev.to](https://dev.to/luckysikolia) / [Hashnode.com](https://hashnode.com/@Sikolia)
-* 🌱 I'm currently learning **Game Development**
+* 🌱ux/ui designer
 
 
 ***
